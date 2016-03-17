@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1424688232 source:d:\fci\3th level\2nd term\graphics\assignments\gfx\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Ellipse.h"
+
+1396799997 "
+
+1396799891 d:\fci\3th level\2nd term\graphics\assignments\gfx\include\point.h
+
+1396799997 source:d:\fci\3th level\2nd term\graphics\assignments\gfx\src\point.cpp
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Ellipse.h"
+
+1396796732 source:d:\fci\3th level\2nd term\graphics\assignments\gfx\src\line.cpp
+	"Line.h"
+
+1396797188 
+
+1396808924 d:\fci\3th level\2nd term\graphics\assignments\gfx\include\line.h
+	"Point.h"
+
+1396797188 source:d:\fci\3th level\2nd term\graphics\assignments\gfx\src\circle.cpp
+	"Circle.h"
+
+1396799875 d:\fci\3th level\2nd term\graphics\assignments\gfx\include\circle.h
+	"Point.h"
+
+1396799803 source:d:\fci\3th level\2nd term\graphics\assignments\gfx\src\ellipse.cpp
+	"Ellipse.h"
+
+1396799861 d:\fci\3th level\2nd term\graphics\assignments\gfx\include\ellipse.h
+	"Point.h"
+
+1428563253 source:d:\fci\4th level\2nd term\graphics\gfx\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Ellipse.h"
+
+1396799891 d:\fci\4th level\2nd term\graphics\gfx\include\point.h
+
+1396808924 d:\fci\4th level\2nd term\graphics\gfx\include\line.h
+	"Point.h"
+
+1396799875 d:\fci\4th level\2nd term\graphics\gfx\include\circle.h
+	"Point.h"
+
+1396799861 d:\fci\4th level\2nd term\graphics\gfx\include\ellipse.h
+	"Point.h"
+
+1396797188 source:d:\fci\4th level\2nd term\graphics\gfx\src\circle.cpp
+	"Circle.h"
+
+1396799803 source:d:\fci\4th level\2nd term\graphics\gfx\src\ellipse.cpp
+	"Ellipse.h"
+
+1396796732 source:d:\fci\4th level\2nd term\graphics\gfx\src\line.cpp
+	"Line.h"
+
+1396799997 source:d:\fci\4th level\2nd term\graphics\gfx\src\point.cpp
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Ellipse.h"
+
+1396797188 source:/media/abdallah/BA3CE5543CE50C67/FCI/4th Level/2nd Term/Graphics/GFX/src/Circle.cpp
+	"Circle.h"
+
+1396799875 /media/abdallah/BA3CE5543CE50C67/FCI/4th Level/2nd Term/Graphics/GFX/include/Circle.h
+	"Point.h"
+
+1396799891 /media/abdallah/BA3CE5543CE50C67/FCI/4th Level/2nd Term/Graphics/GFX/include/Point.h
+
+1396799803 source:/media/abdallah/BA3CE5543CE50C67/FCI/4th Level/2nd Term/Graphics/GFX/src/Ellipse.cpp
+	"Ellipse.h"
+
+1396799861 /media/abdallah/BA3CE5543CE50C67/FCI/4th Level/2nd Term/Graphics/GFX/include/Ellipse.h
+	"Point.h"
+
+1396796732 source:/media/abdallah/BA3CE5543CE50C67/FCI/4th Level/2nd Term/Graphics/GFX/src/Line.cpp
+	"Line.h"
+
+1396808924 /media/abdallah/BA3CE5543CE50C67/FCI/4th Level/2nd Term/Graphics/GFX/include/Line.h
+	"Point.h"
+
+1396799997 source:/media/abdallah/BA3CE5543CE50C67/FCI/4th Level/2nd Term/Graphics/GFX/src/Point.cpp
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Ellipse.h"
+
+1428563253 source:d:\fci\4th-level\2nd-term\graphics\gfx\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Ellipse.h"
+
+1396799891 d:\fci\4th-level\2nd-term\graphics\gfx\include\point.h
+
+1396808924 d:\fci\4th-level\2nd-term\graphics\gfx\include\line.h
+	"Point.h"
+
+1396799875 d:\fci\4th-level\2nd-term\graphics\gfx\include\circle.h
+	"Point.h"
+
+1396799861 d:\fci\4th-level\2nd-term\graphics\gfx\include\ellipse.h
+	"Point.h"
+
+1396797188 source:d:\fci\4th-level\2nd-term\graphics\gfx\src\circle.cpp
+	"Circle.h"
+
+1396799803 source:d:\fci\4th-level\2nd-term\graphics\gfx\src\ellipse.cpp
+	"Ellipse.h"
+
+1396796732 source:d:\fci\4th-level\2nd-term\graphics\gfx\src\line.cpp
+	"Line.h"
+
+1396799997 source:d:\fci\4th-level\2nd-term\graphics\gfx\src\point.cpp
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Ellipse.h"
+
